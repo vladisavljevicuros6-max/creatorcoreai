@@ -2,6 +2,8 @@
 
 An ML-enhanced content generation platform powered by Gemini 3.1 Pro.
 
+You can visit this https://creatorcoreai.netlify.app/ website to use the AI or download it
+
 ## Features
 - **Hyper-personalized Idea Generation**: Uses Gemini 3.1 Pro to generate content ideas tailored to specific platforms (YouTube, TikTok, Twitter/X, LinkedIn, Twitch).
 - **Video Script Generation**: One-click script writing for any generated idea.
